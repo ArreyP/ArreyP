@@ -1,6 +1,7 @@
 👋 Hi, I’m Arrey Arreymbuo Ndi Panquang and you can call me Arrey. Many people know me as Arrey Panquang or Arrey Arreymbuo.
 
-👀 I’m interested in Data Analysis, Data Sciences, Big Data and facilitaing informed decision making.
+👀 I’m interested in Data Analysis, Data Sciences, Big Data, and facilitating informed decision making...
+
 
 🌱 I’m currently learning python and refreshing my SQL throught bootcamps, courses and self-learning.
 
